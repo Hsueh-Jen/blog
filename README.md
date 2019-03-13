@@ -1,4 +1,4 @@
-# blog
+# Blog
 
 這是一個部落格，文章都寫在issue裡面，內容包含程式與設計。
 This a issue blog of Programing and Design knowledge.
@@ -13,3 +13,4 @@ This a issue blog of Programing and Design knowledge.
 * [媽! 我學會Design Pattern了 - 23種Design Pattern範例](https://codepen.io/collection/nYebQp)
 * [好好命名啊！同學！ - Naming Convention](https://hackmd.io/APz0kNhcS9eAbGPoHm8ZkQ)
 * [這樣遊戲打起來才會爽 - Game Feel 遊戲感](https://hackmd.io/-K2S-5dITraUzMXvwa_5fQ)
+* [魔王(Boss)設計原則😈](https://hackmd.io/4o6Ue2RvSnOFCfsp5zH4cw)
